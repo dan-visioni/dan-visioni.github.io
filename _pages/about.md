@@ -15,9 +15,9 @@ My research is currently focused on studying Sulfate Geoengineering, a form of c
 I work towards a deeper understanding how different deployment strategies would impact the surface climate differently, and how we can minimise these impacts. 
 To do so, my research spans 
 
-*The physical mechanisms and sources of uncertainties in aerosols microphysics and aerosol-clouds interaction in climate models 
-*The space of possible strategies for controlling various climate metrics through injections at different locations and times of year 
-*The impacts on ecosystems and surface climate 
-*The international governance aspect of climate engineering.
+* The physical mechanisms and sources of uncertainties in aerosols microphysics and aerosol-clouds interaction in climate models 
+* The space of possible strategies for controlling various climate metrics through injections at different locations and times of year 
+* The impacts on ecosystems and surface climate 
+* The international governance aspect of climate engineering.
 
 
