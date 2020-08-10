@@ -55,4 +55,4 @@ Service and leadership
 * AGU member since 2018
 * GSMU Mentorship Program, Cornell University since 2019
 * Reviewer for multiple journals in the field of atmospheric chemistry and physics
-* Chair for the GRS on Climate Engineering (2022)
+* Chair for the Gordon Research Seminar on Climate Engineering (2022)
