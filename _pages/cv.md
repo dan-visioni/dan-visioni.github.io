@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of L?Aquila, L?Aquila, 2013
+* M.S. in Physics, University of L?Aquila, L?Aquila, 2015
+* Ph.D with Honours in Atmospheric Physics and Chemistry, University of L?Aquila, L?Aquila.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June-September 2017: Visiting Scientist
+  * NASA GSFC - Earth Science Division
+  * Duties included: Worked on the CARMA aerosol module on the climate model GEOS5
+  * Supervisor: Professor Valentina Aquila
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January-March 2018: Visiting Scientist
+  * NCAR, Boulder (CO)
+  * Duties included: Performed analyses on the Geoengineering Large Ensemble with CESM1-WACCM
+  * Supervisor: Dott. Simone Tilmes
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* November 2018-Current: Postdoctoral researcher
+  * Cornell University
+  * Duties includes: Researching the design space of proposed Solar Radiation Management techniques, mostly focused on the physical aspect but with collaborations active in the possible socio-economical and ecological impacts. Supervising graduate students.
 
 Publications
 ======
@@ -56,4 +51,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AGU member since 2018
+* GSMU Mentorship Program, Cornell University since 2019
+* Reviewer for multiple journals in the field of atmospheric chemistry and physics
+* Chair for the GRS on Climate Engineering (2022)
