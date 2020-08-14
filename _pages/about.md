@@ -22,6 +22,8 @@ To do so, my research spans
 * The impacts on [ecosystems](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and [surface](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
 * The international governance aspect of climate engineering
 
+I am part of various Model Intercomparison Projects, setting up simulations and analysing results, mainly [GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/), [ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI).
+
 You can contact me ad dv224 -at- cornell dot edu
 
 
