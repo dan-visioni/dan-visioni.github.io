@@ -8,6 +8,6 @@ venue: 'Environmental Research Letters'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb'
 citation: 'Visioni, D., Slessarev, E., MacMartin, D., Mahowald, N. M., Goodale, C. L., and Xia,L. (2020), &quot;What goes up must come down: impacts of deposition in a sulfate geoengineeringscenario&quot;, Environmental Research Letters, 15(9), http://iopscience.iop.org/10.1088/1748-9326/ab94eb'
 ---
-Impacts of sulfate deposition under sulfate geoengineering on different types of soils
+Impacts of sulfate deposition from sulfate geoengineering on different types of soils
 
 Recommended citation: Visioni, D., Slessarev, E., MacMartin, D., Mahowald, N. M., Goodale, C. L., and Xia,L. (2020), &quot;What goes up must come down: impacts of deposition in a sulfate geoengineeringscenario&quot;, Environmental Research Letters, 15(9), http://iopscience.iop.org/10.1088/1748-9326/ab94eb
