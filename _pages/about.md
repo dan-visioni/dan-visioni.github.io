@@ -14,12 +14,12 @@ My research is currently focused on studying Sulfate Geoengineering, a form of c
 
 I work towards a deeper understanding of how different deployment strategies would impact the surface climate differently, and how we can minimise these impacts. 
 
-To do so, my research spans 
+To do so, my research spans various topics:  
 
-* The interactions between aerosols and atmospheric [dynamics](https://acp.copernicus.org/articles/18/2787/2018/acp-18-2787-2018.html) and [chemistry](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.html)
-* The physical mechanisms and [sources of uncertainties](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html) in aerosols microphysics and [aerosol-clouds interaction](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models 
-* The space of possible [strategies](https://esd.copernicus.org/preprints/esd-2020-58/#discussion) for controlling various climate metrics through injections at [different locations and times of year](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
-* The impacts on [ecosystems](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and [surface](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
+* The interactions between aerosols and atmospheric dynamics [(1)](https://acp.copernicus.org/articles/18/2787/2018/acp-18-2787-2018.html), [(2)](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.html) and chemistry [(3)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089470?af=R) [(4)](https://www.essoar.org/doi/10.1002/essoar.10504448.1)
+* The physical mechanisms and sources of uncertainties [(5)](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html) in aerosols microphysics and aerosol-clouds interaction [(6)](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models 
+* The space of possible strategies [(7)](https://esd.copernicus.org/preprints/esd-2020-58/#discussion) for controlling various climate metrics through injections at different locations and times of year [(8)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
+* The impacts on ecosystems [(9)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and surface climate [(10)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(11)]] (https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
 * The international governance aspect of climate engineering
 
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
