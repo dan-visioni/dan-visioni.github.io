@@ -25,6 +25,6 @@ To do so, my research spans various topics:
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
 [ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI).
 
-You can contact me ad dv224 -at- cornell dot edu
+You can contact me ad dv224 -at- cornell dot edu. I'm always happy to respond to your questions related to what I do!
 
 
