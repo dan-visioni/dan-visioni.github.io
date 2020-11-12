@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a climate modeler. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently a Postdoctoral Researcher at Cornell University, Sibley School of Mechanical and Aerospace Engineering, working with [prof. Douglas MacMartin](https://sites.coecis.cornell.edu/douglas/) on our newly funded Geoengineering Assessment across Uncertainty, Scenarios, and Strategies [GAUSS](https://sites.coecis.cornell.edu/douglas/research/) project!
+Hi there! I'm Dan, and I'm a climate modeler. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently a Postdoctoral Researcher at Cornell University, Sibley School of Mechanical and Aerospace Engineering, working with [prof. Douglas MacMartin](https://sites.coecis.cornell.edu/douglas/) on our newly funded Geoengineering Assessment across Uncertainty, Scenarios, and Strategies [GAUSS](https://sites.coecis.cornell.edu/douglas/research/) project!
 
 My research is currently focused on studying Sulfate Geoengineering, a form of climate engineering that aims to reduce surface temperatures by means of injecting sulfate precursors in the stratosphere in order to reflect a small part of the incoming solar radiation and thus reduce global temperatures. I'm also interested in other climate engineering methods (Marine Cloud Brightening, Cirrus Thinning) and I continue studying the effect of past and present volcanic eruptions on climate.
 
@@ -16,10 +16,10 @@ I work towards a deeper understanding of how different deployment strategies wou
 
 To do so, my research spans various topics:  
 
-* The interactions between aerosols and atmospheric dynamics [(1)](https://acp.copernicus.org/articles/18/2787/2018/acp-18-2787-2018.html), [(2)](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.html) and chemistry [(3)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089470?af=R) [(4)](https://www.essoar.org/doi/10.1002/essoar.10504448.1)
-* The physical mechanisms and sources of uncertainties [(5)](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html) in aerosols microphysics and aerosol-clouds interaction [(6)](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models 
-* The space of possible strategies [(7)](https://esd.copernicus.org/preprints/esd-2020-58/#discussion) for controlling various climate metrics through injections at different locations and times of year [(8)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
-* The impacts on ecosystems [(9)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and surface climate [(10)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(11)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
+* The interactions between aerosols and atmospheric dynamics [(1)](https://acp.copernicus.org/articles/18/2787/2018/acp-18-2787-2018.html), [(2)](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.html), [(3)](https://acp.copernicus.org/preprints/acp-2020-1104/) and chemistry [(4)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089470?af=R) [(5)](https://www.essoar.org/doi/10.1002/essoar.10504448.1)
+* The physical mechanisms and sources of uncertainties [(6)](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html) in aerosols microphysics and aerosol-clouds interaction [(7)](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models 
+* The space of possible strategies [(8)](https://esd.copernicus.org/preprints/esd-2020-58/#discussion) for controlling various climate metrics through injections at different locations and times of year [(9)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
+* The impacts on ecosystems [(10)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and surface climate [(11)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(12)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
 * The international governance aspect of climate engineering
 
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
