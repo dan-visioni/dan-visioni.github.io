@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf)
+
 {% include base_path %}
 
 Education
@@ -54,5 +56,8 @@ Service and leadership
 ======
 * AGU member since 2018
 * GSMU Mentorship Program, Cornell University since 2019
+* [LeadTheFuture](https://leadthefuture.tech/?v=7516fd43adaa) Mentorship Program since 2020
 * Reviewer for multiple journals in the field of atmospheric chemistry and physics
 * Chair for the [Gordon Research Seminar on Climate Engineering (2022)](https://www.grc.org/climate-engineering-grs-conference/2022/)
+* Moderator for the [EguSphere](https://www.egusphere.net/)
+* Co-leader of [GeoMIP](www.geomip.org)

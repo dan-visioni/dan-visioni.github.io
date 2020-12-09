@@ -13,7 +13,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
   
 <u><a href="https://www.focus.it/scienza/scienze/criosfera-cambiamento-climatico-e-ghiacci-polari">Cambiamento climatico: perche preoccuparsi dei ghiacci?</a></u>  (Climate change: why worry about ice?)
    
-<u><a href="https://www.futuroremoto2020.it/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere)
+<u><a href="https://www.futuroremoto2020.it/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk to one of the main Scientific Festivals in Italy explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere)
    
    
    
