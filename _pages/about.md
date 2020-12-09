@@ -18,7 +18,7 @@ To do so, my research spans various topics:
 
 * The interactions between aerosols and atmospheric dynamics [(1)](https://acp.copernicus.org/articles/18/2787/2018/acp-18-2787-2018.html), [(2)](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.html), [(3)](https://acp.copernicus.org/preprints/acp-2020-1104/) and chemistry [(4)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089470?af=R) [(5)](https://www.essoar.org/doi/10.1002/essoar.10504448.1)
 * The physical mechanisms and sources of uncertainties [(6)](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html) in aerosols microphysics and aerosol-clouds interaction [(7)](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models 
-* The space of possible strategies [(8)](https://esd.copernicus.org/preprints/esd-2020-58/#discussion) for controlling various climate metrics through injections at different locations and times of year [(9)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
+* The space of possible strategies [(8)](https://esd.copernicus.org/articles/11/1051/2020/esd-11-1051-2020.html) for controlling various climate metrics through injections at different locations and times of year [(9)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
 * The impacts on ecosystems [(10)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and surface climate [(11)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(12)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
 * The international governance aspect of climate engineering
 

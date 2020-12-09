@@ -12,3 +12,5 @@ I like to contribute to Science Communication efforts, by writing articles expla
   <u><a href="https://www.focus.it/scienza/scienze/2019-rapporto-ipcc-sugli-oceani-e-sui-ghiacci?fbclid=IwAR0cxwPjkGgFJZjhpkAWNROuqqJbV5-c99a9UJjf9KQWpvXDcV3hC9LHfeE#.XYzaHZoyVxp.facebook">Il nuovo rapporto dell'IPCC sugli oceani e sui ghiacci (The new IPCC report on Oceans and Ice)</a>.</u>
   
    <u><a href="https://www.focus.it/scienza/scienze/criosfera-cambiamento-climatico-e-ghiacci-polari">Cambiamento climatico: perché preoccuparsi dei ghiacci? (Climate change: why worry about ice?)</a>.</u>
+   
+{% include base_path %}
