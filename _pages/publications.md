@@ -14,10 +14,10 @@ Main Publications
 ======
 <ol>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ol>
 
 Other Publications
 ======
 <ol>{% for post in site.publications_others reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ol>
