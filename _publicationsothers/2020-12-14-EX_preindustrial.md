@@ -1,6 +1,6 @@
 ---
 title: "Detection of pre-industrial societies on exoplanets"
-collection: publications_others
+collection: publicationsothers
 permalink: /publication/2020-12-14-EX_preindustrial
 excerpt: 'Exploring the possibility of detecting pre-industrial societies in other planets from planetary changes.'
 date: 2020-12-14

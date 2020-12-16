@@ -18,6 +18,6 @@ Main Publications
 
 Other Publications
 ======
-<ol>{% for post in site.publications_others reversed %}
+<ol>{% for post in site.publicationsothers reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ol>
