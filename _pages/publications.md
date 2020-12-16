@@ -12,12 +12,12 @@ I have contributed to some more (26), so for a complete list, please check <u><a
 
 Main Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Other Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>{% for post in site.publications_others reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
