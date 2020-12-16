@@ -11,3 +11,4 @@ citation: 'Visioni, D., Pitari, G., Aquila, V., Tilmes, S., Cionni, I., Di Genov
 SG effect on atmospheric dynamics and chemistry, with particular focus on atmospheric methane.
 
 Recommended citation: Visioni, D., Pitari, G., Aquila, V., Tilmes, S., Cionni, I., Di Genova, G., and Mancini, E. (2017). &quot;Sulfate geoengineering impact on methane transport and lifetime: Results from the geoengineering model intercomparison project (GeoMIP)&quot;. Atmospheric Chemistry and Physics. 17, 11209-11226
+[Download paper here](https://acp.copernicus.org/articles/17/11209/2017/acp-17-11209-2017.pdf)
