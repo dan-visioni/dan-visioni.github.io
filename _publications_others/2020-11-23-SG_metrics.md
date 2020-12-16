@@ -1,6 +1,6 @@
 ---
 title: "Expanding the design space of stratospheric aerosol geoengineering to include precipitation-based objectives and explore trade-offs"
-collection: publications
+collection: publications_others
 permalink: /publication/2020-11-23-SG_metrics
 excerpt: 'Can we simulate geoengineering scenarios that aim to restore non-temperature-related metrics?'
 date: 2020-11-23

@@ -10,6 +10,14 @@ I have contributed to some more (26), so for a complete list, please check <u><a
 
 {% include base_path %}
 
+Main Publications
+======
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Other Publications
+======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
