@@ -230,7 +230,7 @@ defaults:
   # _publicationsothers
   - scope:
       path: ""
-      type: publications
+      type: publicationsothers
     values:
       layout: single
       author_profile: true
