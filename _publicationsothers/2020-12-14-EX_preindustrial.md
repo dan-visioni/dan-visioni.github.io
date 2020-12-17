@@ -11,5 +11,4 @@ citation: 'Lockley, A., & Visioni, D. (2020). &quot;Detection of pre-industrial 
 
 Exploring the possibility of detecting pre-industrial societies in other planets from planetary changes.
 
-Recommended citation: Lockley, A., & Visioni, D. (2020). &quot;Detection of pre-industrial societies on exoplanets. International Journal of Astrobiology&quot;, 1-8. doi:10.1017/S1473550420000361
 [Download paper here](http://dan-visioni.github.io/files/EX_2020_Societies.pdf)
