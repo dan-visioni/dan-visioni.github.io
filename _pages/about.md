@@ -22,10 +22,12 @@ To do so, my research spans various topics:
 * The impacts on ecosystems [(10)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb) and surface climate [(11)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(12)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
 * The international governance aspect of climate engineering
 
-I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
-[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI).
+(A more comprehensive list of my publications can be found [here](https://dan-visioni.github.io/publications/))
 
-I also dabble in... other, [lighter](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/detection-of-preindustrial-societies-on-exoplanets/2F1C14870F756707F4808D2045AAA80C) things ;) 
+I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
+[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI). I also like mentoring young university students: I'm an active participant in a Cornell University program aimed at mentoring First-Generation undergraduate students, and in an online program aimed at mentoring Italian STEM students looking for an academic career abroad.
+
+I also try to be active in communicating climate science and the risks of climate change to a broader audience - visit my SciComm page to look at some examples.
 
 You can contact me ad dv224 -at- cornell dot edu. If you have questions about what I do or my publications - or if you are a student looking for advices on how to navigate the academic environment - don't hesitate to contact me!
 
