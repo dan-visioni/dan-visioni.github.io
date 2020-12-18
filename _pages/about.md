@@ -25,10 +25,11 @@ To do so, my research spans various topics:
 (A more comprehensive list of my publications can be found [here](https://dan-visioni.github.io/publications/))
 
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
-[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI). I also like mentoring young university students: I'm an active participant in a Cornell University program aimed at mentoring First-Generation undergraduate students, and in an online program aimed at mentoring Italian STEM students looking for an academic career abroad.
+[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI). I also like mentoring university students: I'm an active participant in a Cornell University program aimed at mentoring First-Generation undergraduate students, and in an online program aimed at mentoring Italian STEM students looking for an academic career abroad.
 
 I also try to be active in communicating climate science and the risks of climate change to a broader audience - visit my SciComm page to look at some examples.
 
 You can contact me ad dv224 -at- cornell dot edu. If you have questions about what I do or my publications - or if you are a student looking for advices on how to navigate the academic environment - don't hesitate to contact me!
 
+In my free time (as if!) I love practicing historical fencing and hiking around nature with my husband (both the fencing and the hiking) reading SciFi and comics and running.
 
