@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Dan, and I'm a climate modeler. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently a Postdoctoral Researcher at Cornell University, Sibley School of Mechanical and Aerospace Engineering, working with [prof. Douglas MacMartin](https://sites.coecis.cornell.edu/douglas/) on our newly funded Geoengineering Assessment across Uncertainties, Scenarios, and Strategies [GAUSS](https://sites.coecis.cornell.edu/douglas/research/) project.
+Hi there! I'm Dan, and I'm a climate modeler. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently a Postdoctoral Researcher at Cornell University, Sibley School of Mechanical and Aerospace Engineering, working with [prof. Douglas MacMartin](https://sites.coecis.cornell.edu/douglas/) on our newly funded Geoengineering Assessment across Uncertainties, Scenarios, and Strategies [GAUSS](https://climate-engineering.mae.cornell.edu/gauss-geoengineering-assessment-across-uncertainty-scenarios-and-strategies/) project.
 
 My research is currently focused on studying Sulfate Geoengineering, a form of climate engineering that aims to reduce surface temperatures by means of injecting sulfate precursors in the stratosphere in order to reflect a small part of the incoming solar radiation and thus reduce global temperatures. I'm also interested in other climate engineering methods (Marine Cloud Brightening, Cirrus Thinning) and I continue studying the effect of past and present volcanic eruptions on climate.
 
@@ -25,7 +25,7 @@ To do so, my research spans various topics:
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
 [ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI).
 
-I also... dabble in other, [lighter](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/detection-of-preindustrial-societies-on-exoplanets/2F1C14870F756707F4808D2045AAA80C) things ;) 
+I also dabble in... other, [lighter](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/detection-of-preindustrial-societies-on-exoplanets/2F1C14870F756707F4808D2045AAA80C) things ;) 
 
 You can contact me ad dv224 -at- cornell dot edu. I'm always happy to respond to your questions related to what I do!
 
