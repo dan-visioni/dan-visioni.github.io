@@ -4,7 +4,8 @@ title: "SciComm"
 permalink: /scicomm/
 author_profile: true
 ---
-<img src='/images/500x300.png'>
+
+<img src='/images/scicomm.jpg'>
 
 I like to contribute to Science Communication efforts, by writing articles explaining climate science to the general public (my mom likes them!), or giving public talks (she also thinks I look nice when I do those!). Most of this effort is in my first language, Italian (so that my mom can understand, but also because I like to keep in touch with my home country :) )
 
