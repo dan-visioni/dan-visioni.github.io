@@ -27,6 +27,6 @@ I am currently co-chair of the Geoengineering Model Intercomparison Project ([Ge
 
 I also dabble in... other, [lighter](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/detection-of-preindustrial-societies-on-exoplanets/2F1C14870F756707F4808D2045AAA80C) things ;) 
 
-You can contact me ad dv224 -at- cornell dot edu. I'm always happy to respond to your questions related to what I do!
+You can contact me ad dv224 -at- cornell dot edu. If you have questions about what I do or my publications - or if you are a student looking for advices on how to navigate the academic environment - don't hesitate to contact me!
 
 
