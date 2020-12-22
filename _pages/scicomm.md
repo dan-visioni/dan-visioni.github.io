@@ -13,11 +13,11 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 * <u><a href="https://www.futuroremoto2020.it/">Buco dell'ozono: a ogni anno il proprio record</a></u>  (Ozono hole: to each year its own record) (10/23/2020)
 
-* <u><a href="https://open.spotify.com/episode/0Ic5LLIcL0UvhBnXDQT3HE?si=RZZYejo9StKkPrbVeu_4xg">Reviewer 2 talks stratospheric heating under geoengineering</a></u> (Podcast interview discussing my latest [papers](https://dan-visioni.github.io/publication/2020-08-26-SG_polar_strat) and climate modeling in general) (9/4/2020)
+* <u><a href="https://open.spotify.com/episode/0Ic5LLIcL0UvhBnXDQT3HE?si=RZZYejo9StKkPrbVeu_4xg">Reviewer 2 talks stratospheric heating under geoengineering</a></u> (Podcast interview discussing my latest [paper](https://dan-visioni.github.io/publication/2020-08-26-SG_polar_strat) and climate modeling in general) (9/4/2020)
 
 * <u><a href="https://www2.cisl.ucar.edu/news/research-finds-sulfate-geoengineering-would-be-only-temporary-fix-climate">Research finds Sulfate Geoengineering would be only a temporary fix for climate</a></u> (Interview in the NCAR CISL website discussing one of my latest [papers](https://dan-visioni.github.io/publication/2020-08-26-SG_polar_strat)) (9/2/2020)
 
-* <u>< href="https://open.spotify.com/episode/4wGdlMdVDwpJ3Hhw4hekEC?si=uq2YacfwSvGZTQ0jVO_GvQ">Le politiche ambientali degli USA</a></u> (Environmental policies in the USA: interview by an Italian podcast discussing the impact of the new environmental policies of the United States) (4/23/2020)
+* <u><a href="https://open.spotify.com/episode/4wGdlMdVDwpJ3Hhw4hekEC?si=uq2YacfwSvGZTQ0jVO_GvQ">Le politiche ambientali degli USA</a></u> (Environmental policies in the USA: interview by an Italian podcast discussing the impact of the new environmental policies of the United States) (4/23/2020)
 
 * <u><a href="https://www.focus.it/scienza/scienze/criosfera-cambiamento-climatico-e-ghiacci-polari">Cambiamento climatico: perche preoccuparsi dei ghiacci?</a></u>  (Climate change: why worry about ice?) (10/4/2019)
  
