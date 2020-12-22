@@ -1,5 +1,5 @@
 ---
-title: "Stratospheric Sulfate Aerosol Geoengineering Could Alter the High?Latitude Seasonal Cycle"
+title: "Stratospheric Sulfate Aerosol Geoengineering Could Alter the High-Latitude Seasonal Cycle"
 collection: publicationsothers
 permalink: /publication/2019-12-06-SG_highlat
 excerpt: 'Effect of sulfate geoengineering on high latitudinal temperatures and seasonal cycle'
