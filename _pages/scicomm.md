@@ -9,6 +9,8 @@ author_profile: true
 
 I like to contribute to Science Communication efforts, by writing articles explaining climate science to the general public (my mom likes them!), or giving public talks (she also thinks I look nice when I do those!). Most of this effort is in my first language, Italian (so that my mom can understand, but also because I like to keep in touch with my home country :) )
 
+You can find some of my shorter musings in the [blob](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers, podcasts and public talks.
+
 * <u><a href="https://www.italiaambiente.it/2020/10/23/buco-dellozono-a-ogni-anno-il-proprio-record/?fbclid=IwAR27SwdxyASlUCX6oKu4pB6yFf_dgXCAvynyxuGPQI1wG6RwI3HZC3l7J0w/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk to one of the main Scientific Festivals in Italy explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere) (11/25/2020)
 
 * <u><a href="https://www.futuroremoto2020.it/">Buco dell'ozono: a ogni anno il proprio record</a></u>  (Ozono hole: to each year its own record) (10/23/2020)
