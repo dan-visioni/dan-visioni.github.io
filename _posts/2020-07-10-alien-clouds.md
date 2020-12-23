@@ -1,0 +1,21 @@
+---
+title: 'Nuvole Aliene'
+date: 2020-10-29
+permalink: /posts/2020/10/metano-artico/
+tags:
+  - climate change
+  - clouds
+  - methane
+---
+
+Nuvole Aliene
+======
+In questi giorni abbiamo visto molte foto di un cielo coperto di nubi soffuse di un alone bluastro, quasi fossero illuminate, subito dopo il tramonto. Meravigliose, s&igrave;, ma anche un po&prime; spaventose per alcuni...
+
+No, niente alieni. I fortunati hanno osservato un fenomeno abbastanza raro - quelle che vengono chiamate &quot;nubi nottilucenti&quot;. Le chiamiamo nubi, ma hanno davvero poco a che fare con le classiche nuvole. Al contrario di queste, infatti, che si trovano solo pochi chilometri sopra le nostre teste, le nubi nottilucenti si trovano nella mesosfera, tra i 60 e gli 80 km di altezza, e sono visibili in estate, quando la mesosfera &egrave; pi&ugrave; fredda, ad alte latitudini (tra 50<sup>o</sup> e 70<sup>o</sup>) [1](https://www.nature.com/articles/204014a0.pdf?fbclid=IwAR1SUNPp-PJPWgGeF66DGSdUeipZRgM7Bi0rkE8vXMFSLiIBfOTdI0sW9Mg). Sembra poco, per noi abituati a viaggiare in orizzontale, ma in realt&agrave;, in verticale, &egrave; un mondo completamente diverso. Le temperature sono pi&ugrave; fredde di quelle medie sulla superficie di Marte, meno di -100 <sup>o</sup>C! In queste strane, aliene condizioni, &egrave; facile immaginare che l&prime;acqua ghiacci con facilit&agrave;. Il problema &egrave; che di acqua, a quelle altitudini, praticamente non ce n&prime;&egrave; (l&prime;aria del Sahara contiene 100 milioni di volte pi&ugrave; particelle d&prime;acqua della mesosfera). L&prime;unica sorgente possibile deve venire dagli strati atmosferici inferiori. L&prime;aria troposferica, molto pi&ugrave; umida, come il pi&ugrave; bravo dei surfisti &quot;viaggia&quot; sulle onde di gravit&agrave; atmosferiche che si muovono dal basso verso l&prime;alto, e che arrivate in mesosfera, dove l&prime;aria &egrave; molto rarefatta, si dissipano, aumentando temporaneamente l&prime;umidit&agrave; locale [2](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062776?fbclid=IwAR3Oy1noO_FX-I5L0MWP6fv9oG-zns9qszyh3UHRQKJXVPS8tuQsZjNGCho).
+
+Basta questo a produrle&prime; Nonostante il freddo, per formare questi minuscoli cristalli di ghiaccio (qualche decina di nanometri) serve anche un nucleo solido che renda il processo di coagulazione e congelamento pi&ugrave; facile. Questi nuclei sono anche loro difficili da ottenere in quei luoghi, e ci sono ancora dubbi sulla loro provenienza. Una delle teorie pi&ugrave; accreditate &egrave; che tali particelle vengano dallo spazio, e che siano il residuo di micrometeoriti [3](https://journals.ametsoc.org/view/journals/atsc/24/5/1520-0469_1967_024_0577_ipanc_2_0_co_2.xml?fbclid=IwAR2t1IBn1PKtG2jxPQD-FL3RjcXKerM1u1ybVNCIPWaaEd8veY_rKuuZ834&tab_body=fulltext-display). Quindi s&igrave;, forse ci sbagliavamo, e queste nuvole sono davvero aliene!
+
+Prendendo qualcosa dalla terra e qualcosa dal cielo, abbiamo gli ingredienti per la formazione di queste nubi, capaci di intercettare i raggi obliqui del sole morente e di illuminarsi come festoni natalizi, allietando le nostre serate estive. Durante l&prime;ultimo secolo, una grande curiosit&agrave; ha spesso assalito i ricercatori: se queste nubi sono cos&igrave; magnifiche, perché non se ne trova traccia da nessuna parte prima della fine dell&prime;800? La risposta &egrave; che sono le nostre attivit&agrave; ad aver reso questo fenomeno cos&igrave; frequente e brillante. Il metano prodotto dalle attivit&agrave; umane (ne produciamo sempre pi&ugrave;, e la sua concentrazione &egrave; quasi quadruplicata rispetto alle precedenti ere geologiche) ha la tendenza ad ossidarsi, specialmente in stratosfera, trasformandosi in anidride carbonica e vapor d&prime;acqua. Proprio questo aumento di vapor d&prime;acqua di origine antropica renderebbe queste nuvole cos&igrave; magiche molto pi&ugrave; facili da osservare [4](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001JD001345?fbclid=IwAR1Y3c6G8EkA9iMkTpIXpy-cQR4_bALAsIFg25ch3AzFar0apl9XV5Y215U).
+
+<img src='/images/noctilucent.jpg'>
