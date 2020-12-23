@@ -4,7 +4,8 @@ date: 2020-10-29
 permalink: /posts/2020/10/metano-artico/
 tags:
   - climate change
-  - artico
+  - arctic
+  - methane
 ---
 
 C&prime;&egrave; una trappola sotto i ghiacci artici? Molto probabilmente no.
