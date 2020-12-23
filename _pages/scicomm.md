@@ -19,6 +19,8 @@ You can find some of my shorter musings in the [blob](https://dan-visioni.github
 
 * <u><a href="https://www2.cisl.ucar.edu/news/research-finds-sulfate-geoengineering-would-be-only-temporary-fix-climate">Research finds Sulfate Geoengineering would be only a temporary fix for climate</a></u> (Interview in the NCAR CISL website discussing one of my latest [papers](https://dan-visioni.github.io/publication/2020-08-26-SG_polar_strat)) (9/2/2020)
 
+* <u><a href="https://www.spreaker.com/user/roger-podcast/podcast-roger-milano-ny-episodio06-ok?fbclid=IwAR0Nm5jH3Iw-n5kKUdXkae5Pr0BKqsRfq5aixQqjn4VsHOzXZ1HeNrzRlx0">Salvare il pianeta</a></u> (Saving the planet: discussing climate change from an Italian and American perspective. Podcast itnerview) (7/1/2020)
+
 * <u><a href="https://open.spotify.com/episode/4wGdlMdVDwpJ3Hhw4hekEC?si=uq2YacfwSvGZTQ0jVO_GvQ">Le politiche ambientali degli USA</a></u> (Environmental policies in the USA: interview by an Italian podcast discussing the impact of the new environmental policies of the United States) (4/23/2020)
 
 * <u><a href="https://www.focus.it/scienza/scienze/criosfera-cambiamento-climatico-e-ghiacci-polari">Cambiamento climatico: perche preoccuparsi dei ghiacci?</a></u>  (Climate change: why worry about ice?) (10/4/2019)
