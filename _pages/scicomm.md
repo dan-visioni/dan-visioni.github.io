@@ -11,7 +11,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
-* <u><a href="https://mailchi.mp/5900381dee23/jefferson-carteggio-n14-le-sfide-di-joe-biden?e=dec72c3cd2">Joe Biden cambier&agrave il paradigma del clima</a></u>  (The new climate politics of Joe Biden) (1/20/2021)
+* <u><a href="https://mailchi.mp/5900381dee23/jefferson-carteggio-n14-le-sfide-di-joe-biden?e=dec72c3cd2">Joe Biden cambiera il paradigma del clima</a></u>  (The new climate politics of Joe Biden) (1/20/2021)
 
 * <u><a href="https://www.futuroremoto2020.it/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk to one of the main Scientific Festivals in Italy explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere) (11/25/2020)
 
