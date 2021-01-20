@@ -11,9 +11,11 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
-* <u><a href="https://www.italiaambiente.it/2020/10/23/buco-dellozono-a-ogni-anno-il-proprio-record/?fbclid=IwAR27SwdxyASlUCX6oKu4pB6yFf_dgXCAvynyxuGPQI1wG6RwI3HZC3l7J0w/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk to one of the main Scientific Festivals in Italy explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere) (11/25/2020)
+* <u><a href="https://mailchi.mp/5900381dee23/jefferson-carteggio-n14-le-sfide-di-joe-biden?e=dec72c3cd2">Joe Biden cambier&agrave il paradigma del clima</a></u>  (The new climate politics of Joe Biden) (1/20/2021)
 
-* <u><a href="https://www.futuroremoto2020.it/">Buco dell'ozono: a ogni anno il proprio record</a></u>  (Ozono hole: to each year its own record) (10/23/2020)
+* <u><a href="https://www.futuroremoto2020.it/">Il giro del mondo in 10 molecole</a></u>  (Around the world in 10 molecules: public talk to one of the main Scientific Festivals in Italy explaining the interconnectedness of the Earth system, starting from 10 molecules that regulate the climate and the biosphere) (11/25/2020)
+
+* <u><a href="https://www.italiaambiente.it/2020/10/23/buco-dellozono-a-ogni-anno-il-proprio-record/?fbclid=IwAR27SwdxyASlUCX6oKu4pB6yFf_dgXCAvynyxuGPQI1wG6RwI3HZC3l7J0w/">Buco dell'ozono: a ogni anno il proprio record</a></u>  (Ozono hole: to each year its own record) (10/23/2020)
 
 * <u><a href="https://open.spotify.com/episode/0Ic5LLIcL0UvhBnXDQT3HE?si=RZZYejo9StKkPrbVeu_4xg">Reviewer 2 talks stratospheric heating under geoengineering</a></u> (Podcast interview discussing my latest [paper](https://dan-visioni.github.io/publication/2020-08-26-SG_polar_strat) and climate modeling in general) (9/4/2020)
 
