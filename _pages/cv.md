@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated Feb 12th 2021)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated March 9th 2021)
 
 {% include base_path %}
 
@@ -34,6 +34,19 @@ Work experience
   * Duties included: Worked on the CARMA aerosol module on the climate model GEOS5
   * Supervisor: Professor Valentina Aquila
 
+Service and leadership
+======
+* Co-author of the 2022 WMO Scientific Assessments of Ozone Depletion
+* Co-leader of [GeoMIP](www.geomip.org)
+* Moderator for the [EguSphere](https://www.egusphere.net/)
+* Chair for the [Gordon Research Seminar on Climate Engineering (2022)](https://www.grc.org/climate-engineering-grs-conference/2022/)
+* GSMU Mentorship Program, Cornell University since 2019
+* [LeadTheFuture](https://leadthefuture.tech/?v=7516fd43adaa) Mentorship Program since 2020
+* Reviewer for multiple journals in the field of atmospheric chemistry and physics
+
+
+
+
 Main Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -51,13 +64,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* AGU member since 2018
-* GSMU Mentorship Program, Cornell University since 2019
-* [LeadTheFuture](https://leadthefuture.tech/?v=7516fd43adaa) Mentorship Program since 2020
-* Reviewer for multiple journals in the field of atmospheric chemistry and physics
-* Chair for the [Gordon Research Seminar on Climate Engineering (2022)](https://www.grc.org/climate-engineering-grs-conference/2022/)
-* Moderator for the [EguSphere](https://www.egusphere.net/)
-* Co-leader of [GeoMIP](www.geomip.org)
+
