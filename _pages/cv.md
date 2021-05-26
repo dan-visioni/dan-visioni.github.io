@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated April 9th 2021)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated May 26th 2021)
 
 {% include base_path %}
 
@@ -43,9 +43,6 @@ Service and leadership
 * GSMU Mentorship Program, Cornell University since 2019
 * [LeadTheFuture](https://leadthefuture.tech/?v=7516fd43adaa) Mentorship Program since 2020
 * Reviewer for multiple journals in the field of atmospheric chemistry and physics
-
-
-
 
 Main Publications
 ======
