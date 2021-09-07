@@ -25,7 +25,7 @@ My research spans various topics:
 (A more comprehensive list of my publications can be found [here](https://dan-visioni.github.io/publications/))
 
 I am currently co-chair of the Geoengineering Model Intercomparison Project ([GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)), and participate actively in other MIPs: 
-[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI). I also like mentoring university students: I'm an active participant in a Cornell University program aimed at mentoring First-Generation undergraduate students, and in an online program aimed at mentoring Italian STEM students looking for an academic career abroad.
+[ISA-MIP](http://isamip.eu/home) and [CCMI](https://igacproject.org/activities/CCMI). I am a research collaborator for the Solar Radiation Management Governance Initiative ([SRMGI](https://www.srmgi.org/decimals-fund/the-research-collaborators/)), which aims to put developing countries at the centre of the geoengineering conversation. I also like mentoring university students: I'm an active participant in a Cornell University program aimed at mentoring First-Generation undergraduate students, and in an online program aimed at mentoring Italian STEM students looking for an academic career abroad.
 
 I also try to be active in communicating climate science and the risks of climate change to a broader audience - visit my [Science Communication](https://dan-visioni.github.io/scicomm/) page to look at some examples.
 

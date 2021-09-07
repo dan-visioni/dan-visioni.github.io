@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated August 12th 2021)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated September 7 2021)
 
 {% include base_path %}
 
@@ -36,6 +36,7 @@ Work experience
 
 Service and leadership
 ======
+* Research collaborator for [SRMGI](https://www.srmgi.org/decimals-fund/the-research-collaborators/)
 * Co-author of the 2022 WMO Scientific Assessments of Ozone Depletion
 * Co-leader of [GeoMIP](www.geomip.org)
 * Moderator for the [EguSphere](https://www.egusphere.net/)
