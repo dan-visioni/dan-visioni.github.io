@@ -11,8 +11,10 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* <u><a href="https://www.srmprimer.org/">Solar Radiation Management Primer</a></u>  (A website aimed at the general public offering an overview of what Solar Radiation Management is.) (11/1/2021)
+
 * <u><a href="https://www.youtube.com/watch?v=zKBzm4N_hBs">Refreezing the Arctic: Stratospheric Aerosol Injection and other techniques</a></u>  (Discussion organized by the 
-Centre for Climate Repair at Cambridge to explore the possibilities - and risks - associated with stratospheric aerosol injection and other ) (7/12/2021)
+Centre for Climate Repair at Cambridge to explore the possibilities - and risks - associated with stratospheric aerosol injection and other) (7/12/2021)
 
 * <u><a href="https://www.youtube.com/watch?v=ZqPzrULORIc">Fisica del Clima con Daniele Visioni</a></u>  (Interview about climate change, the job of a climatologist and how to become one having a background in physics, with the Italian Association of Physics Students) (3/07/2021)
 
