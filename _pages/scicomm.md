@@ -13,6 +13,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * <u><a href="https://www.srmprimer.org/">Solar Radiation Management Primer</a></u>  (A website aimed at the general public offering an overview of what Solar Radiation Management is.) (11/1/2021)
 
+* <u><a href="https://www.youtube.com/watch?v=N_z2jQd1pUI">Solar geoengineering: what do we know, what do we need to know, and should we know it?</a></u>  (Invited talk to the Bio-Diverse Festival) (10/14/2021)
+
 * <u><a href="https://www.youtube.com/watch?v=zKBzm4N_hBs">Refreezing the Arctic: Stratospheric Aerosol Injection and other techniques</a></u>  (Discussion organized by the 
 Centre for Climate Repair at Cambridge to explore the possibilities - and risks - associated with stratospheric aerosol injection and other) (7/12/2021)
 
