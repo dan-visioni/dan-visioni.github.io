@@ -11,6 +11,8 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* <u><a href="https://www.repubblica.it/green-and-blue/dossier/cop26/2021/11/10/news/cosi_gli_stati_sottostimano_i_dati_reali_sulle_emissioni_di_co2-325804450/?fbclid=IwAR0L-vyBmI5NaTWsA2Q_7u_MVLnsJhaMcDoHtpk9NDK-Eg9_gOzbUafXhUU">Gli Stati sottostimano i dati reali sulle emissioni di CO2: una inchiesta</a></u>  (Interview with one of Italy's leading newspapers about COP26 and emissions reported by countries.) (11/10/2021)
+
 * <u><a href="https://www.srmprimer.org/">Solar Radiation Management Primer</a></u>  (A website aimed at the general public offering an overview of what Solar Radiation Management is.) (11/1/2021)
 
 * <u><a href="https://www.youtube.com/watch?v=N_z2jQd1pUI">Solar geoengineering: what do we know, what do we need to know, and should we know it?</a></u>  (Invited talk to the [Bio-Diverse Festival](https://biodiverseproject.org/)) (10/14/2021)
