@@ -20,7 +20,7 @@ My research spans various topics:
 * The physical mechanisms and sources of uncertainties [(6)](https://acp.copernicus.org/articles/17/3879/2017/acp-17-3879-2017.html), [(14)](https://acp.copernicus.org/articles/21/10039/2021/) in aerosols microphysics and aerosol-clouds interaction [(7)](https://acp.copernicus.org/articles/18/14867/2018/acp-18-14867-2018.html) in climate models.
 * The space of possible strategies [(8)](https://esd.copernicus.org/articles/11/1051/2020/esd-11-1051-2020.html) for controlling various climate metrics through injections at different locations and times of year [(9)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083680)
 * The impacts on ecosystems [(10)](https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb),[(11)](https://www.pnas.org/content/118/15/e1921854118) and surface climate [(11)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085758) [(12)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088337)
-* The international governance aspect of climate engineering [(13)](https://www.sciencedirect.com/science/article/pii/S221209632100053X)
+* The international governance aspect of climate engineering [(13)](https://www.sciencedirect.com/science/article/pii/S221209632100053X), and the integration of climate engineering in more inclusive, comprehensive scenarios of future climate change [(14)](https://ecologyandsociety.org/vol26/iss4/art30/)
 
 (A more comprehensive list of my publications can be found [here](https://dan-visioni.github.io/publications/))
 
