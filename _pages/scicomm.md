@@ -4,6 +4,7 @@ title: "SciComm"
 permalink: /scicomm/
 author_profile: true
 ---
+<meta charset="UTF-8">
 
 <img src='/images/scicomm.jpg'>
 
