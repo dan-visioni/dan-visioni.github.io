@@ -20,9 +20,12 @@ Education
 Work experience
 ======
 
-* November 2018-Current: Postdoctoral researcher
+* January 2022-Current: Research Associate
   * Cornell University
   * Duties includes: Researching the design space of proposed Solar Radiation Management techniques, mostly focused on the physical aspect but with collaborations active in the possible socio-economical and ecological impacts. Supervising graduate students.
+
+* November 2018-December 2021: Postdoctoral researcher
+  * Cornell University
 
 * January-March 2018: Visiting Scientist
   * NCAR, Boulder (CO)
