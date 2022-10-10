@@ -13,6 +13,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (EN) <u><a href="https://youtu.be/VgwwNn_hRZc">My interview with CTV Your Morning</a></u>  (TV interview on the topic of solar geoengineering) (10/9/2022)
 
+* (EN) <u><a href="https://podcasts.apple.com/us/podcast/id1593204897?i=1000566618181">Making sense of solar engineering - Catalyst Podcast with Shayle Kann</a></u>  (Podcast episode where I get to discuss solar geoengineering with the excellent Shale Kann. A great introduction for everyone.) (21/6/2022)
+
 * (IT) <u><a href="https://fb.watch/9QBLBiHqWY/">I cambiamenti climatici e le migrazioni</a></u>  (Talk about the connection between climate change and internal and international migrations.) (12/7/2021)
 
 * (IT) <u><a href="https://www.repubblica.it/green-and-blue/dossier/cop26/2021/11/10/news/cosi_gli_stati_sottostimano_i_dati_reali_sulle_emissioni_di_co2-325804450/?fbclid=IwAR0L-vyBmI5NaTWsA2Q_7u_MVLnsJhaMcDoHtpk9NDK-Eg9_gOzbUafXhUU">Gli Stati sottostimano i dati reali sulle emissioni di CO2: una inchiesta</a></u>  (Interview with one of Italy's leading newspapers about COP26 and emissions reported by countries.) (11/10/2021)
