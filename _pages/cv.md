@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated April 14 2022)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated December 30 2022)
 
 {% include base_path %}
 
@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+
+* January 2023-Current: Project Scientist I (0.4 FTE)
+  * National Center for Atmospheric Research, Atmospheric Chemistry lab
+  * Duties includes: Implementing a Sectional Aerosol microphysics scheme in the Community Earth System Model
 
 * January 2022-Current: Research Associate
   * Cornell University
