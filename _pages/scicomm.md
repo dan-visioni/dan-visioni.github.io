@@ -12,7 +12,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
 
-* (IT) <u><a href="https://www.laquilablog.it/daniele-visioni-dallaquila-alla-cornell-per-studiare-il-clima-a-ginevra-si-riflette-seriamente-sullingegneria-climatica/?fbclid=IwAR3pqK9cbo4beLDtRzfhMAuRTalZ4UXnmui4Xaqh8tNFz5iy6odvz_y2u6Y#.Yuy2teW0Fh0.facebook">Daniele Visioni, dall?Aquila alla Cornell per studiare il clima</a></u>  (My interview with an Italian newspaper about my research, the WMO report and geoengineering) (8/05/2022)
+* (IT) <u><a href="https://www.laquilablog.it/daniele-visioni-dallaquila-alla-cornell-per-studiare-il-clima-a-ginevra-si-riflette-seriamente-sullingegneria-climatica/?fbclid=IwAR3pqK9cbo4beLDtRzfhMAuRTalZ4UXnmui4Xaqh8tNFz5iy6odvz_y2u6Y#.Yuy2teW0Fh0.facebook">Daniele Visioni, dall Aquila alla Cornell per studiare il clima</a></u>  (My interview with an Italian newspaper about my research, the WMO report and geoengineering) (8/05/2022)
 
 * (EN) <u><a href="https://youtu.be/VgwwNn_hRZc">My interview with CTV Your Morning</a></u>  (TV interview on the topic of solar geoengineering) (10/9/2022)
 
