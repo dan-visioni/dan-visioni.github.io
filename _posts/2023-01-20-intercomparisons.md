@@ -1,5 +1,5 @@
 ---
-title: 'Intercomparisons'
+title: 'A new intercomparison just dropped'
 date: 2023-01-20
 permalink: /posts/2023-01-20-intercomparisons
 tags:
