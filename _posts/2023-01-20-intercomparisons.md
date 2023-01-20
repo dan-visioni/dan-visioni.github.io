@@ -8,10 +8,9 @@ tags:
   - intercomparison
 ---
 
-<b>New published stuff!</b>
-
 This week, two parts of study were published on Atmospheric Chemistry and Physics by me and Ewa Bednarz (now at NOAA).
 The links to the studies are here: [Part 1](https://acp.copernicus.org/articles/23/663/2023/) and [Part 2](https://acp.copernicus.org/articles/23/687/2023/).
+Follow along for a preview of what we did and found.
 
 <b>The context</b>
 
