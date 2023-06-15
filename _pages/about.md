@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Dan, and I'm a climate scientist. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently an Assistant Professor at Cornell University in the Department of Earth and Atmosphercic Science. I'll soon add more info about graduate and post-graduate position, as I work to spin up my group. Reach out if you're interested!
+Hi there! I'm Dan, and I'm a climate scientist. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently an Assistant Professor at Cornell University in the [Department of Earth and Atmospheric Science](https://www.eas.cornell.edu/eas). I'll soon add more info about graduate and post-graduate positions, as I work to spin up my group. Reach out if you're interested!
 
 My research is currently mainly focused on studying Stratospheric Aerosol Injections, a form of climate intervention that aims to partially, temporarily, offset the effects of climate change by means of injecting sulfate precursors in the stratosphere in order to reflect a small part of the incoming solar radiation and thus reduce global temperatures. I'm also interested in other climate intervention methods (Marine Cloud Brightening, Cirrus Thinning) and I continue studying the effect of past and present volcanic eruptions on climate. If you are curious about climate intervention, you can find a primer our group wrote [here](https://www.srmprimer.org/) intended for a general audience. 
 
