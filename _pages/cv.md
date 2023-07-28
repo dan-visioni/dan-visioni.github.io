@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated June 15 2023)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated July 28 2023)
 
 {% include base_path %}
 
