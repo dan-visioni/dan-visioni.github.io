@@ -17,6 +17,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (EN) <u><a href="https://www.nytimes.com/live/2023/06/09/world/canada-wildfires-air-quality-smoke?smid=url-share#fire-smoke-dimmed-the-sun-scientists-see-research-opportunities">Fire smoke dimmed the sun. Scientists see research opportunities.</a></u>  (Interview with the NYT detailing the climatic effects of fire plumes and some research opportunities for climate science.) (9/6/2023)
 
+* (IT) <u><a href="https://www.raiplaysound.it/audio/2023/02/ZAPPING-50427d85-c21d-45c3-ab1b-49b7d2ab5a94.html">Rai Radio 1 Zapping</a></u>  (Con Giancarlo Loquenzi, parlando di sicurezza climatica, SRM e la nostra Call for Balance) (3/3/2023)
+
 * (IT) <u><a href="https://www.laquilablog.it/daniele-visioni-dallaquila-alla-cornell-per-studiare-il-clima-a-ginevra-si-riflette-seriamente-sullingegneria-climatica/?fbclid=IwAR3pqK9cbo4beLDtRzfhMAuRTalZ4UXnmui4Xaqh8tNFz5iy6odvz_y2u6Y#.Yuy2teW0Fh0.facebook">Daniele Visioni, dall Aquila alla Cornell per studiare il clima</a></u>  (My interview with an Italian newspaper about my research, the WMO report and geoengineering) (8/5/2022)
 
 * (EN) <u><a href="https://youtu.be/VgwwNn_hRZc">My interview with CTV Your Morning</a></u>  (TV interview on the topic of solar geoengineering) (10/9/2022)
