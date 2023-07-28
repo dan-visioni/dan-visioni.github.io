@@ -11,8 +11,13 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://news.cornell.edu/stories/2023/07/qa-what-you-need-know-about-reflecting-sunlight-cool-earth">What you need to know about reflecting sunlight to cool Earth</a></u>  (A QeA with Ben Furnas, executive director of the 2030 Project: A Cornell Climate Initiative together with Doug MacMartin about SRM and our long time plans at Cornell) (26/7/2023)
 
-* (IT) <u><a href="https://www.laquilablog.it/daniele-visioni-dallaquila-alla-cornell-per-studiare-il-clima-a-ginevra-si-riflette-seriamente-sullingegneria-climatica/?fbclid=IwAR3pqK9cbo4beLDtRzfhMAuRTalZ4UXnmui4Xaqh8tNFz5iy6odvz_y2u6Y#.Yuy2teW0Fh0.facebook">Daniele Visioni, dall Aquila alla Cornell per studiare il clima</a></u>  (My interview with an Italian newspaper about my research, the WMO report and geoengineering) (8/05/2022)
+* (IT) <u><a href="https://t.co/HC9dsByQne">Non tanto il caldo quanto i climalteranti</a></u>  (Podcast interview touching on various climate change related issues) (22/7/2023)
+
+* (EN) <u><a href="https://www.nytimes.com/live/2023/06/09/world/canada-wildfires-air-quality-smoke?smid=url-share#fire-smoke-dimmed-the-sun-scientists-see-research-opportunities">Fire smoke dimmed the sun. Scientists see research opportunities.</a></u>  (Interview with the NYT detailing the climatic effects of fire plumes and some research opportunities for climate science.) (9/6/2023)
+
+* (IT) <u><a href="https://www.laquilablog.it/daniele-visioni-dallaquila-alla-cornell-per-studiare-il-clima-a-ginevra-si-riflette-seriamente-sullingegneria-climatica/?fbclid=IwAR3pqK9cbo4beLDtRzfhMAuRTalZ4UXnmui4Xaqh8tNFz5iy6odvz_y2u6Y#.Yuy2teW0Fh0.facebook">Daniele Visioni, dall Aquila alla Cornell per studiare il clima</a></u>  (My interview with an Italian newspaper about my research, the WMO report and geoengineering) (8/5/2022)
 
 * (EN) <u><a href="https://youtu.be/VgwwNn_hRZc">My interview with CTV Your Morning</a></u>  (TV interview on the topic of solar geoengineering) (10/9/2022)
 
