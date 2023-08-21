@@ -11,6 +11,8 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* (IT) <u><a href="https://www.queryonline.it/2023/08/21/meteo-come-si-misurano-le-temperature-in-italia-intervista-a-giulio-betti-e-daniele-visioni/</a></u>  (Interview on the topic of measurements, temperature and attribution of climate change) (21/8/2023)
+
 * (EN) <u><a href="https://news.cornell.edu/stories/2023/07/qa-what-you-need-know-about-reflecting-sunlight-cool-earth">What you need to know about reflecting sunlight to cool Earth</a></u>  (A QeA with Ben Furnas, executive director of the 2030 Project: A Cornell Climate Initiative together with Doug MacMartin about SRM and our long time plans at Cornell) (26/7/2023)
 
 * (IT) <u><a href="https://t.co/HC9dsByQne">Non tanto il caldo quanto i climalteranti</a></u>  (Podcast interview touching on various climate change related issues) (22/7/2023)
