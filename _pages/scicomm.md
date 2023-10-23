@@ -15,6 +15,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (EN) <u><a href="https://www.rff.org/events/conferences/solar-geoengineering-futures-current-research-and-uncertainties">Solar Geoengineering Futures</a></u>  (Resources for the Future event on SRM research. My panel is the first of day 1) (15/9/2023)
 
+* (EN) <u><a href="https://www.project-syndicate.org/magazine/policymakers-must-understand-risks-benefits-solar-radiation-modification-by-claudia-wieners-et-al-2023-09">The Geoengineering Question</a></u>  (Editorial on Project Syndicate about Climate Intervention research) (11/9/2023)
+
 * (IT) <u><a href="https://www.queryonline.it/2023/08/21/meteo-come-si-misurano-le-temperature-in-italia-intervista-a-giulio-betti-e-daniele-visioni">Come si misurano le temperature in Italia?</a></u>  (Interview on the topic of measurements, temperature and attribution of climate change) (21/8/2023)
 
 * (EN) <u><a href="https://news.cornell.edu/stories/2023/07/qa-what-you-need-know-about-reflecting-sunlight-cool-earth">What you need to know about reflecting sunlight to cool Earth"</a></u>  (A QeA with Ben Furnas, executive director of the 2030 Project: A Cornell Climate Initiative together with Doug MacMartin about SRM and our long time plans at Cornell) (26/7/2023)
