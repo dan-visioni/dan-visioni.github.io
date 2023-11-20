@@ -1,5 +1,5 @@
 ---
-title: Stratospheric Aerosol Injection Can Reduce Risks to Antarctic Ice Loss Depending on Injection Location and Amount"
+title: "Stratospheric Aerosol Injection Can Reduce Risks to Antarctic Ice Loss Depending on Injection Location and Amount"
 collection: publications
 permalink: /publication/2023-11-14-SG_Antarctic
 excerpt: 'A thorough analyses of the potential of SAI to reduce risks related to Ice Sheet collapse, highlighting sensitivity to injection location and amount.'

@@ -1,5 +1,5 @@
 ---
-title: Potential Non-Linearities in the High Latitude Circulation and Ozone Response to Stratospheric Aerosol Injection"
+title: "Potential Non-Linearities in the High Latitude Circulation and Ozone Response to Stratospheric Aerosol Injection"
 collection: publications
 permalink: /publication/2023-11-16-SG_Strat_linearities
 excerpt: 'An exploration of the linearity of the stratospheric response to SAI'
