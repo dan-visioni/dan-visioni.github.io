@@ -11,7 +11,11 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
-* (EN) <u><a href="https://www.salon.com/2023/10/13/how-much-are-volcanoes-to-for-climate-change-far-less-than-humans-experts-say">How much are volcanoes to blame for climate change?</a></u> (Salon article about the impacts of volcanoes on climate, with a quote from me. (13/10/2023)
+* (IT) <u><a href="https://www.ondarossa.info/newstrasmissioni/entropia-massima/2024/01/libera-scienza-libero-stato">Libera Scienza in Libero Stato</a></u>  (Interview on the topic of climate modeling, and our reliable they are) (22/01/2024)
+
+* (EN) <u><a href="https://heatmap.news/technology/climate-tech-geoengineering-carbon-removal">How much are volcanoes to blame for climate change?</a></u> (Heatmap article about geoengineering research, with multiple quotes from me) (13/12/2023)
+
+* (EN) <u><a href="https://www.salon.com/2023/10/13/how-much-are-volcanoes-to-for-climate-change-far-less-than-humans-experts-say">How much are volcanoes to blame for climate change?</a></u> (Salon article about the impacts of volcanoes on climate, with a quote from me) (13/10/2023)
 
 * (EN) <u><a href="https://www.rff.org/events/conferences/solar-geoengineering-futures-current-research-and-uncertainties">Solar Geoengineering Futures</a></u>  (Resources for the Future event on SRM research. My panel is the first of day 1) (15/9/2023)
 
