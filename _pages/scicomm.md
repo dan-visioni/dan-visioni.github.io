@@ -11,7 +11,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
-* (IT) <u><a href="https://www.ondarossa.info/newstrasmissioni/entropia-massima/2024/01/libera-scienza-libero-stato">Libera Scienza in Libero Stato</a></u>  (Interview on the topic of climate modeling, and our reliable they are) (22/01/2024)
+* (IT) <u><a href="https://www.ondarossa.info/newstrasmissioni/entropia-massima/2024/01/libera-scienza-libero-stato">Libera Scienza in Libero Stato</a></u>  (Interview on the topic of climate modeling, and how reliable they are, in the context of climate deniers) (22/01/2024)
 
 * (EN) <u><a href="https://heatmap.news/technology/climate-tech-geoengineering-carbon-removal">Scientists are Coming Around on Geoengineering</a></u> (Heatmap article about geoengineering research, with multiple quotes from me) (13/12/2023)
 
