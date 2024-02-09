@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Dan, and I'm a climate scientist. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently an Assistant Professor at Cornell University in the [Department of Earth and Atmospheric Science](https://www.eas.cornell.edu/eas) and a [Cornell Atkinson Faculty Fellow](https://fellows.atkinson.cornell.edu/). If you are interested in joining our group as a graduate student or as a postdoc, please visit [this page](https://dan-visioni.github.io/recruiting/). Find out more about our research philosophy at Cornell [here](https://news.cornell.edu/stories/2023/07/qa-what-you-need-know-about-reflecting-sunlight-cool-earth).
+Hi there! I'm Dan, and I'm a climate scientist. My main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate. I am currently an Assistant Professor at Cornell University in the [Department of Earth and Atmospheric Science](https://www.eas.cornell.edu/eas) and a [Cornell Atkinson Faculty Fellow](https://fellows.atkinson.cornell.edu/). To find out if our group is recruiting Postdocs/Grad students/Undergrads, please visit [this page](https://dan-visioni.github.io/recruiting/). Find out more about our research philosophy at Cornell [here](https://news.cornell.edu/stories/2023/07/qa-what-you-need-know-about-reflecting-sunlight-cool-earth).
 
 * Oour 2023 Lab Report is [here](http://dan-visioni.github.io/files/2023_Lab_Report.pdf). Check it out for a summary of all our 2023 activities!
 
