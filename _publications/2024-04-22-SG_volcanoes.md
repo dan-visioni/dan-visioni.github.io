@@ -9,6 +9,6 @@ paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107702
 citation: 'Quaglia, I., Visioni, D., Bednarz, E. M., MacMartin, D. G., and Kravitz, B. (2024). The potential of Stratospheric Aerosol Injection to reduce the climatic risks of explosive volcanic eruptions. Geophysical Research Letters, 51, e2023GL107702. https://doi.org/10.1029/2023GL107702'
 
 ---
-The first of Ilaria Quaglia postdoctoral work, exploring how the risk of an explosive volcanic eruption during SAI could be managed
+The first of Ilaria Quaglia postdoctoral work, exploring how the risk of an explosive volcanic eruption during SAI could be managed.
 
 [Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107702)
