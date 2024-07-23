@@ -21,6 +21,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (EN) <u><a href="https://www.salon.com/2023/10/13/how-much-are-volcanoes-to-for-climate-change-far-less-than-humans-experts-say">How much are volcanoes to blame for climate change?</a></u> (Salon article about the impacts of volcanoes on climate, with a quote from me) (13/10/2023)
 
+* (EN) <u><a href="https://podcasts.apple.com/us/podcast/catalyst-with-shayle-kann/id1593204897?i=1000627839169">Stopping geoengineering, by accident</a></u>  (Catalyst podcast interview about the potential climatic impact of shipping emissions) (15/9/2023)
+
 * (EN) <u><a href="https://www.rff.org/events/conferences/solar-geoengineering-futures-current-research-and-uncertainties">Solar Geoengineering Futures</a></u>  (Resources for the Future event on SRM research. My panel is the first of day 1) (15/9/2023)
 
 * (EN) <u><a href="https://www.project-syndicate.org/magazine/policymakers-must-understand-risks-benefits-solar-radiation-modification-by-claudia-wieners-et-al-2023-09">The Geoengineering Question</a></u>  (Editorial on Project Syndicate about Climate Intervention research) (11/9/2023)
