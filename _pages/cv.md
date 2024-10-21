@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated July 28 2023)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated October 21, 2024)
 
 {% include base_path %}
 
@@ -20,11 +20,14 @@ Education
 Work experience
 ======
 
-* January 2023-Current: Project Scientist I (0.4 FTE)
+* July 2023-Current: Assistant Professor
+  * Conrell University, Department of Earth and Atmospheric Sciences
+
+* January 2023-2023: Project Scientist I (0.4 FTE)
   * National Center for Atmospheric Research, Atmospheric Chemistry lab
   * Duties includes: Implementing a Sectional Aerosol microphysics scheme in the Community Earth System Model
 
-* January 2022-Current: Research Associate
+* January 2022-2023: Research Associate
   * Cornell University
   * Duties includes: Researching the design space of proposed Solar Radiation Management techniques, mostly focused on the physical aspect but with collaborations active in the possible socio-economical and ecological impacts. Supervising graduate students.
 
@@ -46,6 +49,7 @@ Service and leadership
 * Research collaborator for [SRMGI](https://www.srmgi.org/decimals-fund/the-research-collaborators/)
 * Co-author of the 2022 WMO Scientific Assessments of Ozone Depletion
 * Co-leader of [GeoMIP](www.geomip.org)
+* Co-leader of the World Climate Research Programme Lighthouse Activity on Climate Intervention Research
 * Moderator for the [EguSphere](https://www.egusphere.net/)
 * Chair for the [Gordon Research Seminar on Climate Engineering (2022)](https://www.grc.org/climate-engineering-grs-conference/2022/)
 * GSMU Mentorship Program, Cornell University since 2019

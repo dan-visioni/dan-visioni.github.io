@@ -11,6 +11,8 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://www.youtube.com/live/p8sXgplsy3I">Solar Geoengineering: Benefits and Risks with Daniele Visioni</a></u>  (An interview with Dan MIiller about SAI) (21/10/2024)
+
 * (EN) <u><a href="https://www.latimes.com/environment/story/2024-06-09/reduction-in-shipping-pollution-has-increased-global-warming">How did a sudden reduction in shipping pollution inadvertently stroke global warming?</a></u>  (An interview about out recent preprint about the climatic effect of a reduction shipping emissions) (08/06/2024)
 
 * (EN) <u><a href="https://www.technologyreview.com/2024/04/23/1091604/why-new-proposals-to-restrict-geoengineering-are-misguided/">Why new proposals to restrict geoengineering are misguided</a></u>  (An op-ed on MIT Tech Review about SRM regulations in the US and in the world) (23/04/2024)
