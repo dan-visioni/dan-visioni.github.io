@@ -19,6 +19,8 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (IT) <u><a href="https://www.ondarossa.info/newstrasmissioni/entropia-massima/2024/01/libera-scienza-libero-stato">Libera Scienza in Libero Stato</a></u>  (Interview on the topic of climate modeling, and how reliable they are, in the context of climate deniers) (22/01/2024)
 
+* (EN) <u><a href="http://dan-visioni.github.io/files/Report_adaptation.pdf">It's adaptation all the way down</a></u> (A piece I was asked to write for a European think-tank) (2023)
+
 * (EN) <u><a href="https://heatmap.news/technology/climate-tech-geoengineering-carbon-removal">Scientists are Coming Around on Geoengineering</a></u> (Heatmap article about geoengineering research, with multiple quotes from me) (13/12/2023)
 
 * (EN) <u><a href="https://www.salon.com/2023/10/13/how-much-are-volcanoes-to-for-climate-change-far-less-than-humans-experts-say">How much are volcanoes to blame for climate change?</a></u> (Salon article about the impacts of volcanoes on climate, with a quote from me) (13/10/2023)
