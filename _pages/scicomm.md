@@ -11,11 +11,15 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://www.youtube.com/live/p8sXgplsy3I">Solar Geoengineering: Benefits and Risks with Daniele Visioni</a></u>  (An interview with Dan MIiller about SAI) (21/10/2024)
+
 * (EN) <u><a href="https://www.latimes.com/environment/story/2024-06-09/reduction-in-shipping-pollution-has-increased-global-warming">How did a sudden reduction in shipping pollution inadvertently stroke global warming?</a></u>  (An interview about out recent preprint about the climatic effect of a reduction shipping emissions) (08/06/2024)
 
 * (EN) <u><a href="https://www.technologyreview.com/2024/04/23/1091604/why-new-proposals-to-restrict-geoengineering-are-misguided/">Why new proposals to restrict geoengineering are misguided</a></u>  (An op-ed on MIT Tech Review about SRM regulations in the US and in the world) (23/04/2024)
 
 * (IT) <u><a href="https://www.ondarossa.info/newstrasmissioni/entropia-massima/2024/01/libera-scienza-libero-stato">Libera Scienza in Libero Stato</a></u>  (Interview on the topic of climate modeling, and how reliable they are, in the context of climate deniers) (22/01/2024)
+
+* (EN) <u><a href="http://dan-visioni.github.io/files/Report_adaptation.pdf">It's adaptation all the way down</a></u> (A piece I was asked to write for a European think-tank) (2023)
 
 * (EN) <u><a href="https://heatmap.news/technology/climate-tech-geoengineering-carbon-removal">Scientists are Coming Around on Geoengineering</a></u> (Heatmap article about geoengineering research, with multiple quotes from me) (13/12/2023)
 
