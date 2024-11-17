@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the global atmospheric background sulfur budget in a multi-model framework"
 collection: publicationsothers
-permalink: /publication/2024-05-14-Baseline_sulfate
+permalink: /publicationsothers/2024-05-14-Baseline_sulfate
 excerpt: 'A multi-model, international effort to quantify baseline fluxes of sulfate in the atmosphere'
 date: 2024-05-14
 venue: Atmos. Chem. Phys.

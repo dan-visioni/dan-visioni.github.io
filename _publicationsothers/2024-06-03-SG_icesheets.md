@@ -1,7 +1,7 @@
 ---
 title: "Multi-model simulation of solar geoengineering indicates avoidable destabilization of the West Antarctic ice sheet"
 collection: publicationsothers
-permalink: /publication/2024-06-01-SG_icesheets
+permalink: /publicationsothers/2024-06-01-SG_icesheets
 excerpt: 'Using GeoMIP results, a demonstration of the potential of SAI to avoid Ice Sheets Destabilization in the Antarctic'
 date: 2024-06-03
 venue: Earths Future
