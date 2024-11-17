@@ -7,9 +7,11 @@ author_profile: true
 
 <img src='/images/scicomm_ted.jpg'>
 
-I like to contribute to Science Communication efforts, by writing articles explaining climate science to the general public (my mom likes them!), or giving public talks (she also thinks I look nice when I do those!). Most of this effort is in my first language, Italian (so that my mom can understand, but also because I like to keep in touch with my home country :) )
+I like to contribute to Science Communication efforts, by writing articles explaining climate science to the general public (my mom likes them!), or giving public talks (she also thinks I look nice when I do those!). I like to do this both in English and in my first language, Italian (so that my mom can understand, but also because I like to keep in touch with my home country!). Things are tagged accordingly.
 
-You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write, podcasts I participated to and public talks I gave.
+You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
+
+* (EN) <u><a href="https://ww2.aip.org/fyi/american-geophysical-union-proposes-ethics-for-geoengineering">American Geophysical Union Proposes Ethics for Geoengineering</a></u>  (Interview to the American Institute of Physics about the AGU Ethical Principles I Coauthored) (10/11/2024)
 
 * (EN) <u><a href="https://www.youtube.com/live/p8sXgplsy3I">Solar Geoengineering: Benefits and Risks with Daniele Visioni</a></u>  (An interview with Dan MIiller about SAI) (21/10/2024)
 
