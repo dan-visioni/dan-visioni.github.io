@@ -11,7 +11,15 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
-* (EN) <u><a href="https://ww2.aip.org/fyi/american-geophysical-union-proposes-ethics-for-geoengineering">American Geophysical Union Proposes Ethics for Geoengineering</a></u>  (Interview to the American Institute of Physics about the AGU Ethical Principles I Coauthored) (10/11/2024)
+* (EN) <u><a href="https://newscientist.com/article/2460695-fights-over-geoengineering-experiments-will-heat-up-in-2025/">Fights over geoengineering experiments will heat up in 2025</a></u>  (NewScientist article about SRM experiments, with quotes from me) (27/12/2024)
+
+* (EN) <u><a href="https://www.imeche.org/news/news-article/a-lot-of-people-feel-quite-uncomfortable-thinking-about-it-daniele-visioni-geoengineering-researcher">A lot of people feel quite uncomfortable thinking about it</a></u>  (Institution of Mechanical Engineering interview about SRM deployment) (18/12/2024)
+
+* (EN) <u><a href="https://heatmap.news/climate/extreme-heat-geoengineering">The Shipping Industry May Have Accidentally Done Some Geoengineering</a></u>  (Heatmap interview on our paper on shipping emissions) (06/12/2024)
+
+* (EN) <u><a href="https://www.bbc.co.uk/programmes/w3ct5vdt">BBC Radio Interview on Shipping Emissions</a></u>  (Interview to the BBC radio discussing the impact of shipping emission regulations) (05/12/2024)
+
+* (EN) <u><a href="https://ww2.aip.org/fyi/american-geophysical-union-proposes-ethics-for-geoengineering">American Geophysical Union Proposes Ethics for Geoengineering</a></u>  (Interview to the American Institute of Physics about the AGU Ethical Principles I Coauthored) (05/12/2024)
 
 * (EN) <u><a href="https://www.youtube.com/live/p8sXgplsy3I">Solar Geoengineering: Benefits and Risks with Daniele Visioni</a></u>  (An interview with Dan MIiller about SAI) (21/10/2024)
 
