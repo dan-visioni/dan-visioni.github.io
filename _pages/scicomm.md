@@ -11,7 +11,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
-* (EN) <u><a href="https://srm360.org/perspective/learn-about-srm-from-climate-modelling/">What Can We Learn About SRM From Climate Modelling?</a></u>  (SRM360 Perspective from me about what we can learn about SRM from climate modeling) (15/11/2025)
+* (EN) <u><a href="https://srm360.org/perspective/learn-about-srm-from-climate-modelling/">What Can We Learn About SRM From Climate Modelling?</a></u>  (SRM360 Perspective from me about what we can learn about SRM from climate modeling) (15/1/2025)
 
 * (EN) <u><a href="https://newscientist.com/article/2460695-fights-over-geoengineering-experiments-will-heat-up-in-2025/">Fights over geoengineering experiments will heat up in 2025</a></u>  (NewScientist article about SRM experiments, with quotes from me) (27/12/2024)
 
