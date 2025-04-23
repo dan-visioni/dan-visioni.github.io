@@ -11,6 +11,8 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://open.spotify.com/episode/2llD9f0wgqXmle2TFIgubZ?si=054567d4a67f4bce">Changing the World (Literally)</a></u>  (Neil deGrasse Tyson podcast StarTalk Radio, where me and Holly Buck talk SRM) (19/4/2025)
+
 * (EN) <u><a href="https://www.youtube.com/watch?v=e0AYDatZ5jU&list=PLrfcruGtplwGKzxDI_Ne06NlpOKt-yonZ&index=3">The Promises and Pitfalls of Geoengineering | 2025 Isaac Asimov Memorial Debate</a></u>  (Recording of my participation in the Isaac Asimov Memorial Debate, hosted by Neil deGrasse Tyson) (19/3/2025)
 
 * (EN) <u><a href="https://thebulletin.org/2025/03/forecast-for-weaker-weather-service-americans-will-die-businesses-will-lose-billions/">Forecast for weaker weather service: Americans will die, businesses will lose billions</a></u>  (An op-ed written in collaboration with my Cornell colleagues for the Bulletin of the Atomic Scientists about the dangerous cuts to NOAA and NWS) (14/3/2025)
