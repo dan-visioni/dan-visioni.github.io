@@ -1,5 +1,5 @@
 ---
-title: "Climate Dynamics (2023-2025)"
+title: "Climate Dynamics (2023/2024/2025)"
 collection: teaching
 type: "Undergraduate and Graduate course"
 permalink: /teaching/2023-ClimateDynamics
