@@ -11,6 +11,8 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://www.youtube.com/watch?v=yPSHZqZjjxU">Understanding climate intervention methods to reduce climate risks</a></u>  (A recording of my TEDx talk about climate intervention, given at MIT in October 2024) (23/4/2025)
+
 * (EN) <u><a href="https://open.spotify.com/episode/2llD9f0wgqXmle2TFIgubZ?si=054567d4a67f4bce">Changing the World (Literally)</a></u>  (Neil deGrasse Tyson podcast StarTalk Radio, where me and Holly Buck talk SRM) (19/4/2025)
 
 * (EN) <u><a href="https://www.youtube.com/watch?v=e0AYDatZ5jU&list=PLrfcruGtplwGKzxDI_Ne06NlpOKt-yonZ&index=3">The Promises and Pitfalls of Geoengineering | 2025 Isaac Asimov Memorial Debate</a></u>  (Recording of my participation in the Isaac Asimov Memorial Debate, hosted by Neil deGrasse Tyson) (19/3/2025)
