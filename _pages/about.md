@@ -14,12 +14,12 @@ My research is currently mainly focused on studying Stratospheric Aerosol Inject
 
 I work to improve our understanding of how different deployment strategies would impact the surface climate differently, and how (and if!) we can minimise these impacts. Climate engineering is not to be intended as a way to avoid getting to zero emissions as fast as possible, but I strongly believe we need to explore it as a complementary measure to reduce some of the unavoidable impacts that climate change might have on our lives. You can read about my opinion on the ethic of researching climate intervention in a few pieces I wrote with other people in the last years:
 
+ * A TEDx talk I gave in October 2024 [Understanding climate intervention methods to reduce climate risks}(https://www.youtube.com/watch?v=yPSHZqZjjxU), outlining why I think research in this field is important.
  * [This op-ed about SRM regulations in the US and in the world](https://www.technologyreview.com/2024/04/23/1091604/why-new-proposals-to-restrict-geoengineering-are-misguided/).
  * [This perspective I coauthored on the topic of moral hazard](https://www.sciencedirect.com/science/article/pii/S221209632100053X).
  * [This opinion piece we wrote in 2021](https://thehill.com/opinion/energy-environment/559859-climate-engineering-research-is-essential-to-a-just-transition-and).
  * [The position statement on Climate Intervention from the American Geophysical Union](https://www.agu.org/share-and-advocate/share/policymakers/position-statements/climate-intervention-requirements), for which I was part of the expert panel. Followed by a set of [Ethical Guidelines for Climate Intervention Research](https://www.agu.org/learn-about-agu/about-agu/ethics/ethical-framework-for-climate-intervention) sponsored by AGU.
  * [Solar radiation modification is risky, but so is rejecting it: a call for balanced research](https://academic.oup.com/oocc/article/3/1/kgad002/7081048).
- * I try to introduce all of my talks explaining the whys of my research, many of them are [recorded](https://dan-visioni.github.io/talks/). In particular [this](https://dan-visioni.github.io/talks/2022-03-22-talk), which I gave as part of the Climate Crisis and Future Generations Labont Seminar series for the Sant'Anna Institute, goes more in depth in discussing my perspective on the ethics of this endeavour.
  
 My research spans various topics (links to selected publications):  
 
