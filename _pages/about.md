@@ -14,7 +14,7 @@ My research is currently mainly focused on studying Stratospheric Aerosol Inject
 
 I work to improve our understanding of how different deployment strategies would impact the surface climate differently, and how (and if!) we can minimise these impacts. Climate engineering is not to be intended as a way to avoid getting to zero emissions as fast as possible, but I strongly believe we need to explore it as a complementary measure to reduce some of the unavoidable impacts that climate change might have on our lives. You can read about my opinion on the ethic of researching climate intervention in a few pieces I wrote with other people in the last years:
 
- * A TEDx talk I gave in October 2024 [Understanding climate intervention methods to reduce climate risks}(https://www.youtube.com/watch?v=yPSHZqZjjxU), outlining why I think research in this field is important.
+ * A TEDx talk I gave in October 2024 [Understanding climate intervention methods to reduce climate risks](https://www.youtube.com/watch?v=yPSHZqZjjxU), outlining why I think research in this field is important.
  * [This op-ed about SRM regulations in the US and in the world](https://www.technologyreview.com/2024/04/23/1091604/why-new-proposals-to-restrict-geoengineering-are-misguided/).
  * [This perspective I coauthored on the topic of moral hazard](https://www.sciencedirect.com/science/article/pii/S221209632100053X).
  * [This opinion piece we wrote in 2021](https://thehill.com/opinion/energy-environment/559859-climate-engineering-research-is-essential-to-a-just-transition-and).
