@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated October 21, 2024)
+You can find my complete CV in PDF form for download [here](http://dan-visioni.github.io/files/Curriculum.pdf) (updated April 21, 2025)
 
 {% include base_path %}
 
@@ -21,9 +21,9 @@ Work experience
 ======
 
 * July 2023-Current: Assistant Professor
-  * Conrell University, Department of Earth and Atmospheric Sciences
+  * Cornell University, Department of Earth and Atmospheric Sciences
 
-* January 2023-2023: Project Scientist I (0.4 FTE)
+* January 2023-2023: Project Scientist I
   * National Center for Atmospheric Research, Atmospheric Chemistry lab
   * Duties includes: Implementing a Sectional Aerosol microphysics scheme in the Community Earth System Model
 
