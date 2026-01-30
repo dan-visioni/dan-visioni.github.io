@@ -11,6 +11,18 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
+* (EN) <u><a href="https://theconversation.com/climate-engineering-would-alter-the-oceans-reshaping-marine-life-new-study-examines-each-methods-risks-270659">Climate engineering would alter the oceans, reshaping marine life ? new study examines each method?s risks</a></u>  (A piece we wrote explaining our very long Reviews of Geophysics piece on ecosystem impacts of climate interventions) (8/1/2026)
+
+* (EN) <u><a href="https://insideclimatenews.org/news/08012026/top-climate-scientists-react-to-trump-treaty-withdrawals/">What Top Climate Scientists Think of Trump?s Treaty Withdrawals</a></u>  (I'm not a top climate scientist, but they asked me anyway what I think about Trump and the IPCC!) (8/1/2026)
+
+* (EN) <u><a href="https://www.theguardian.com/commentisfree/2026/jan/06/reflecting-sunlight-climate-crisis-heating">We can safely experiment with reflecting sunlight away from Earth. Here?s how</a></u>  (A shorter form op-ed outlining the same issues around safely experimenting with SAI) (6/1/2026)
+
+* (EN) <u><a href="https://www.rollingstone.com/politics/politics-features/geoengineering-research-climate-change-trump-1235464312/">Trump Is Kneecapping Some of the Boldest Plans to Fight Climate Change</a></u>  (Interview about the current US government was on research) (13/11/2025)
+
+* (EN) <u><a href="https://www.technologyreview.com/2025/11/04/1127532/why-the-for-profit-race-into-solar-geoengineering-is-bad-for-science-and-public-trust/">Why the for-profit race into solar geoengineering is bad for science and public trust</a></u>  (An op-ed I wrote with David Keith contra for profit SRM) (4/11/2025)
+
+* (EN) <u><a href="https://worksinprogress.co/issue/sunscreen-for-the-planet/">Sunscreen for the Planet</a></u>  (A long form piece we wrote with Dakota Gruner about how to potentially perform outdoor experiments for SAI transparently and safely) (18/9/2025)
+
 * (EN) <u><a href="https://www.youtube.com/watch?v=yPSHZqZjjxU">Understanding climate intervention methods to reduce climate risks</a></u>  (A recording of my TEDx talk about climate intervention, given at MIT in October 2024) (23/4/2025)
 
 * (EN) <u><a href="https://open.spotify.com/episode/2llD9f0wgqXmle2TFIgubZ?si=054567d4a67f4bce">Changing the World (Literally)</a></u>  (Neil deGrasse Tyson podcast StarTalk Radio, where me and Holly Buck talk SRM) (19/4/2025)
