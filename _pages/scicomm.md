@@ -11,7 +11,7 @@ I like to contribute to Science Communication efforts, by writing articles expla
 
 You can find some of my shorter musings in the [blog](https://dan-visioni.github.io/year-archive/), and below a list of articles on websites/newspapers I was asked to write or I was interviewed for, podcasts I participated to and public talks I gave.
 
-* (EN) <u><a href="https://theconversation.com/climate-engineering-would-alter-the-oceans-reshaping-marine-life-new-study-examines-each-methods-risks-270659">Climate engineering would alter the oceans, reshaping marine life ? new study examines each method?s risks</a></u>  (A piece we wrote explaining our very long Reviews of Geophysics piece on ecosystem impacts of climate interventions) (8/1/2026)
+* (EN) <u><a href="https://theconversation.com/climate-engineering-would-alter-the-oceans-reshaping-marine-life-new-study-examines-each-methods-risks-270659">Climate engineering would alter the oceans, reshaping marine life - new study examines each method s risks</a></u>  (A piece we wrote explaining our very long Reviews of Geophysics piece on ecosystem impacts of climate interventions) (8/1/2026)
 
 * (EN) <u><a href="https://insideclimatenews.org/news/08012026/top-climate-scientists-react-to-trump-treaty-withdrawals/">What Top Climate Scientists Think of Trump?s Treaty Withdrawals</a></u>  (I'm not a top climate scientist, but they asked me anyway what I think about Trump and the IPCC!) (8/1/2026)
 
