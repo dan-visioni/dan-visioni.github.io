@@ -13,9 +13,9 @@ You can find some of my shorter musings in the [blog](https://dan-visioni.github
 
 * (EN) <u><a href="https://theconversation.com/climate-engineering-would-alter-the-oceans-reshaping-marine-life-new-study-examines-each-methods-risks-270659">Climate engineering would alter the oceans, reshaping marine life - new study examines each method s risks</a></u>  (A piece we wrote explaining our very long Reviews of Geophysics piece on ecosystem impacts of climate interventions) (8/1/2026)
 
-* (EN) <u><a href="https://insideclimatenews.org/news/08012026/top-climate-scientists-react-to-trump-treaty-withdrawals/">What Top Climate Scientists Think of Trump?s Treaty Withdrawals</a></u>  (I'm not a top climate scientist, but they asked me anyway what I think about Trump and the IPCC!) (8/1/2026)
+* (EN) <u><a href="https://insideclimatenews.org/news/08012026/top-climate-scientists-react-to-trump-treaty-withdrawals/">What Top Climate Scientists Think of Trump s Treaty Withdrawals</a></u>  (I'm not a top climate scientist, but they asked me anyway what I think about Trump and the IPCC!) (8/1/2026)
 
-* (EN) <u><a href="https://www.theguardian.com/commentisfree/2026/jan/06/reflecting-sunlight-climate-crisis-heating">We can safely experiment with reflecting sunlight away from Earth. Here?s how</a></u>  (A shorter form op-ed outlining the same issues around safely experimenting with SAI) (6/1/2026)
+* (EN) <u><a href="https://www.theguardian.com/commentisfree/2026/jan/06/reflecting-sunlight-climate-crisis-heating">We can safely experiment with reflecting sunlight away from Earth. Here is how</a></u>  (A shorter form op-ed outlining the same issues around safely experimenting with SAI) (6/1/2026)
 
 * (EN) <u><a href="https://www.rollingstone.com/politics/politics-features/geoengineering-research-climate-change-trump-1235464312/">Trump Is Kneecapping Some of the Boldest Plans to Fight Climate Change</a></u>  (Interview about the current US government was on research) (13/11/2025)
 
