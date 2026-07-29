@@ -16,14 +16,14 @@ Visit the page related to each article to download the PDF or e-mail me if you'r
 {% include base_path %}
 
 Main Publications
-This is a list of publications lead by me, or from my research group, or from researchers I have directly mentored.
+
 ======
   <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
 Other Publications
-This is a list of other publications I have been involved with through collaborations.
+
 ======
   <ol>{% for post in site.publicationsothers reversed %}
     {% include archive-single-cv.html %}
