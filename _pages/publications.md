@@ -16,12 +16,14 @@ Visit the page related to each article to download the PDF or e-mail me if you'r
 {% include base_path %}
 
 Main Publications
+
 ======
   <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
 Other Publications
+
 ======
   <ol>{% for post in site.publicationsothers reversed %}
     {% include archive-single-cv.html %}
