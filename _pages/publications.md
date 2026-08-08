@@ -15,14 +15,14 @@ Visit the page related to each article to download the PDF or e-mail me if you'r
 
 {% include base_path %}
 
-Main Publications
+Main Publications (lead or co-lead by me or by members of my research group)
 
 ======
   <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
-Other Publications
+Other Publications (collaborative projects I participated in, not less important :) )
 
 ======
   <ol>{% for post in site.publicationsothers reversed %}
