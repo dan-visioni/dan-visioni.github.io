@@ -1,5 +1,5 @@
 ---
-title: "The effect of atmospheric nudging on the stratospheric residual circulation in chemistry?climate models"
+title: "The effect of atmospheric nudging on the stratospheric residual circulation in chemistry-climate models"
 collection: publicationsothers
 permalink: /publication/2019-09-13-CCMI_nudging
 excerpt: 'Does the nudging to prescribed circulation affects the precision of climate model projections? Not really'

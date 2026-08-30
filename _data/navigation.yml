@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research Landscape"
+    url: /research-landscape/
 
   - title: "Talks"
     url: /talks/    
@@ -16,5 +16,4 @@ main:
     url: /scicomm/
     
   - title: "Blog Posts"
-    url: /year-archive/ 
-    
+    url: /year-archive/
