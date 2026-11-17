@@ -1,6 +1,6 @@
 ---
 title: "Impacts of solar climate intervention on extreme climate events: recent advances, opportunities and challenges"
-collection: publications
+collection: publicationsothers
 permalink: /publication/2026-10-19-touma-sci-extremes-bams
 excerpt: 'A workshop-based survey of what is known about the impacts of solar climate intervention on extreme climate events, their underlying physical drivers, and their predictability, from the UT Austin SCI-EX workshop'
 date: 2026-10-19
